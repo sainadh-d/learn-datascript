@@ -1,0 +1,6 @@
+.shadow-cljs/
+node_modules/
+public/js/compiled/cljs-runtime/
+package-lock.json
+.calva
+.lsp
